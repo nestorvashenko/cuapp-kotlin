@@ -35,8 +35,7 @@ extension-функции, generics на уровне функции, корут�
 myapp/
 ├── src/
 │   ├── main.kt          # код приложения
-│   ├── index.css        # стили
-│   └── coldos.d.ts      # декларации ColdOS API
+│   └── index.css        # стили
 ├── assets/              # иконки
 ├── package.json
 └── README.md
