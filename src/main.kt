@@ -7,7 +7,7 @@ package com.coldos.template
  * mapOf, if/else и вызовы глобальных функций ColdOS.
  */
 
-fun user_run_application__APP_ID__() {
+fun __ENTRY_FN__() {
     val id_app = "__APP_ID__"
     val height = "600"
     val width = "800"
